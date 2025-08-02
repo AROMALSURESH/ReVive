@@ -31,9 +31,6 @@ The user interface displays idea cards (e.g., bottle planter, tote bag from a sh
 - 📱 **Fully Responsive UI**  
   Works across desktop and mobile devices, using a clean, accessible layout.
 
-## GitHub Repository Link  
-[GitHub Repo](https://github.com/AROMALSURESH/revive-upcycle)  
-> 
 
 ## Team Members and Roles
 
