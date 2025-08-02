@@ -40,4 +40,4 @@ The user interface displays idea cards (e.g., bottle planter, tote bag from a sh
 - **Name 4** – Lejin Leo (Designer)
 
 ## Screenshot  
-![Screenshot](./assets/screenshot.png)
+![Screenshot](revive.png)
